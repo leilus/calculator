@@ -21,7 +21,7 @@ int main()
 	
 
 		if (calc == "N" || calc == "n" || calc == "no") {
-			cout << "Please select which operation do you want to do!\n1 => +\n2 => -\n3 => *\n4 => /\n";
+			cout << "Please select which operation do you want to do!\n1 => +\n2 => -\n3 => *\n4 => /\n5 => square\n";
 			cin >> number;
 
 			if (number == "1") {
